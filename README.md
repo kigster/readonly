@@ -1,3 +1,11 @@
+
+[![Gem Version](https://badge.fury.io/rb/readonly.svg)](https://badge.fury.io/rb/readonly)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kigster/readonly/master/LICENSE.txt)
+[![Build Status](https://travis-ci.org/kigster/readonly.svg?branch=master)](https://travis-ci.org/kigster/readonly)
+[![Code Climate](https://codeclimate.com/repos/5837922bb21108233b008116/badges/8c5e9d5ac17973e96592/gpa.svg)](https://codeclimate.com/repos/5837922bb21108233b008116/feed)
+[![Test Coverage](https://codeclimate.com/repos/5837922bb21108233b008116/badges/8c5e9d5ac17973e96592/coverage.svg)](https://codeclimate.com/repos/5837922bb21108233b008116/coverage)
+[![Issue Count](https://codeclimate.com/repos/5837922bb21108233b008116/badges/8c5e9d5ac17973e96592/issue_count.svg)](https://codeclimate.com/repos/5837922bb21108233b008116/feed)
+
 # ReadOnly — Wrap Any Class in a Readonly Proxy
 
 This gem is meant as a fail-safe to guard certain data against
@@ -68,10 +76,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install readonly
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
